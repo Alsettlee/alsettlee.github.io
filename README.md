@@ -113,7 +113,11 @@
 - <b>양방향 DC/DC 컨버터 개발/납품;</b> 구동모터 시험을 위한 배터리 시뮬레이터 장비 개발, EPT & ANG & 현대기아환경기술연구소 , 2020-2021
 
 <p align="center">
-<img src="images/Project2.jpg" width="1000">
+<img src="images/Project21.jpg" width="685">
+</p>
+
+<p align="center">
+<img src="images/Project22.jpg" width="685">
 </p>
 
 ---
