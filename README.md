@@ -8,14 +8,13 @@
   <sub><i>Taeyeon Lee</i></sub>
 </h2>
 
-### 이력 키워드
-<br>
+<h3>이력 키워드</h3>
+
 <img src="https://img.shields.io/badge/Traction%20Motor-Control-002D72?style=flat-square" width="170">
 <img src="https://img.shields.io/badge/Power%20Electronics-HW,%20Inverter-002D72?style=flat-square" width="230">
 <img src="https://img.shields.io/badge/Fail%20Safe-SW,%20Algorithm-002D72?style=flat-square" width="180">
 <img src="https://img.shields.io/badge/Simulation-SILS-002D72?style=flat-square" width="125">
 <img src="https://img.shields.io/badge/EV%20Charger-Converter-002D72?style=flat-square" width="172">
-
 </div>
 
 ## 요약
@@ -91,7 +90,7 @@
 
 
 
-### 수행 프로젝트 (소속: (주)와이파워원)
+▶ <b>수행 프로젝트 (소속: (주)와이파워원)</b>
 
 - <b>100kW 2상2계층 무선충전 시스템 개발;</b> 고속 스위칭(85kHz) 인버터 모듈 개발 및 전력변환부 원리시험, 현대자동차 남양연구소, 2024-2026
 - <b>상용차용 3상3계층 기반의 무선충전 코일 기술개발;</b> 국제 e-모빌리티 신기술 수상(2026), Post-Tips, 2023-2024
@@ -101,7 +100,7 @@
 <img src="images/Project1.jpg" width="700">
 </p>
 
-### 수행 프로젝트 (소속: 포항공과대학교)
+▶ <b>수행 프로젝트 (소속: 포항공과대학교)</b>
 
 - <b>UAM 고출력 모터 제어 알고리즘 개발;</b> 센서 Failover를 위한 자속 관측기 기반 센서리스 및 센서 융합 제어 기술 개발, 현대자동차, 2019-2020
 - <b>계통 연계 AC/DC 컨버터의 전압 센서리스 기술개발;</b> 자속 기반 Adaptive Quadrauture PLL 개발, POSTECH, 2020-2020
