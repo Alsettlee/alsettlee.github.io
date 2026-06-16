@@ -12,9 +12,9 @@
 
 <img src="https://img.shields.io/badge/Traction%20Motor-Control-002D72?style=flat-square" width="170">
 <img src="https://img.shields.io/badge/Power%20Electronics-HW,%20Inverter-002D72?style=flat-square" width="230">
-<img src="https://img.shields.io/badge/Fail%20Safe-SW,%20Algorithm-002D72?style=flat-square"width="180">
+<img src="https://img.shields.io/badge/Fail%20Safe-SW,%20Algorithm-002D72?style=flat-square" width="180">
 <img src="https://img.shields.io/badge/Simulation-SILS-002D72?style=flat-square" width="125">
-<img src="https://img.shields.io/badge/EV%20Charger-Converter-002D72?style=flat-square"width="172">
+<img src="https://img.shields.io/badge/EV%20Charger-Converter-002D72?style=flat-square" width="172">
 
 </div>
 
