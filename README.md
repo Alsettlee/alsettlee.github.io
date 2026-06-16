@@ -8,7 +8,7 @@
   <sub><i>Taeyeon Lee</i></sub>
 </h2>
 
-<h3>이력 키워드</h3>
+<b>이력 키워드</b>
 
 <img src="https://img.shields.io/badge/Traction%20Motor-Control-002D72?style=flat-square" width="170">
 <img src="https://img.shields.io/badge/Power%20Electronics-HW,%20Inverter-002D72?style=flat-square" width="230">
