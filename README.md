@@ -143,7 +143,11 @@
 
 &#9632; <b>비 SCI</b>
 <ul>
-<li><b> T. Lee</b>, <i> A Novel Three-Phase Three-Layer Topology for Wireless Power Transfer Systems,</i>, in IEEE Access, vol. 9, pp. 153518-153527, 2021. 🔗 DOI: https://doi.org/10.1109/ECCEEurope62508.2024.10751830 </li>
+<li><b> T. Lee</b>, <i> Load Balancing Control Scheme for Three-Phase Wireless Charging Systems,</i>, 2026 Energy Conversion Congress & Expo (ECCE), Vancouver, BC, Canada, <b><i>Accepted for presentation</i></b>, 2026. </li>
+</ul>
+
+<ul>
+<li><b> T. Lee</b>, <i> A Novel Three-Phase Three-Layer Topology for Wireless Power Transfer Systems,</i>, 2024 Energy Conversion Congress & Expo Europe (ECCE Europe), Darmstadt, Germany, 2024. 🔗 DOI: https://doi.org/10.1109/ECCEEurope62508.2024.10751830 </li>
 </ul>
 
 <ul>
