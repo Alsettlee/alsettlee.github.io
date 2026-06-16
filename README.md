@@ -1,23 +1,28 @@
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=002D72&height=180&section=header&text=Portfolio&fontColor=ffffff&fontSize=45" width="1100">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=002D72&height=180&section=header&text=Portfolio&fontColor=ffffff&fontSize=45"/>
-
-<h2>
+<h2 align="center">
   이태연
   <br>
   <sub><i>Taeyeon Lee</i></sub>
 </h2>
 
-<b>이력 키워드</b>
+<p align="center">
+  <b>이력 키워드</b>
+</p>
 
-<img src="https://img.shields.io/badge/Traction%20Motor-Control-002D72?style=flat-square" width="170">
-<img src="https://img.shields.io/badge/Power%20Electronics-HW,%20Inverter-002D72?style=flat-square" width="230">
-<img src="https://img.shields.io/badge/Fail%20Safe-SW,%20Algorithm-002D72?style=flat-square" width="180">
-<img src="https://img.shields.io/badge/Simulation-SILS-002D72?style=flat-square" width="125">
-<img src="https://img.shields.io/badge/EV%20Charger-Converter-002D72?style=flat-square" width="172">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Traction%20Motor-Control-002D72?style=flat-square" width="170">
+  <img src="https://img.shields.io/badge/Power%20Electronics-HW,%20Inverter-002D72?style=flat-square" width="230">
+  <img src="https://img.shields.io/badge/Fail%20Safe-SW,%20Algorithm-002D72?style=flat-square" width="180">
+  <img src="https://img.shields.io/badge/Simulation-SILS-002D72?style=flat-square" width="125">
+  <img src="https://img.shields.io/badge/EV%20Charger-Converter-002D72?style=flat-square" width="172">
+</p>
 
+---
 ## 요약
+
 <table>
 <tr>
 <td rowspan="2" width="120" align="center">
