@@ -5,7 +5,7 @@
 <h2 align="center">
   이태연
   <br>
-  <sub><i>Taeyeon Lee</i></sub>
+  <span><sub><i>Taeyeon Lee</i></sub></span>
 </h2>
 
 <p align="center">
